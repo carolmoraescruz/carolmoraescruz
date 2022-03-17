@@ -1,4 +1,4 @@
-## Olá, eu sou a Caroline Moraes da Cruz 😉
+## Olá, eu sou a Carol 😉
 
 <div align="center">
   <a href="https://github.com/carolmoraescruz">
