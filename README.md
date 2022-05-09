@@ -16,6 +16,7 @@
   <img align="center" alt="Minitab"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg">
   <img align="center" alt="Java"       height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML"       height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="VS Code"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
   
