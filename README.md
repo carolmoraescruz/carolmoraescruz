@@ -1,5 +1,7 @@
 ## Olá, eu sou a Carol 😉
 
+Mamãe da Cecília, Engenheira de Dados, estudante de programação Web FullStack e sempre em movimento!
+
 <div align="center">
   <a href="https://github.com/carolmoraescruz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolmoraescruz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
