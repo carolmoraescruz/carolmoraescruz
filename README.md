@@ -16,6 +16,7 @@ Mamãe da Cecília, Engenheira de Dados, estudante de programação Web FullStac
   <img align="center" alt="Azure"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLServer"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="R"          height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="Minitab"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg">
   <img align="center" alt="Java"       height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
