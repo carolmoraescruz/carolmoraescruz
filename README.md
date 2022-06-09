@@ -10,7 +10,7 @@ Mamãe da Cecília, Engenheira de Dados, estudante de programação Web FullStac
 ##
     
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python"     height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Azure"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
