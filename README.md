@@ -1,6 +1,6 @@
 ## Olá, eu sou a Carol 😉
 
-Mamãe da Cecília, Engenheira de Dados, estudante de programação Web FullStack e sempre em movimento!
+Mamãe da Cecília, atualmente trabalho na liderança de projetos de IA Generativa na BlueShift Brasil!
 
 <div align="center">
   <a href="https://github.com/carolmoraescruz">
@@ -14,14 +14,15 @@ Mamãe da Cecília, Engenheira de Dados, estudante de programação Web FullStac
   <img align="center" alt="Python"     height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Azure"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker"     height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="SQLServer"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Git"        height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="R"          height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Minitab"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg">
   <img align="center" alt="Java"       height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML"       height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Figma"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Ubuntu"     height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg">
   <img align="center" alt="VS Code"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
   
